@@ -1,0 +1,19 @@
+*{margin: 0;
+padding: 0;}
+.container{
+    background-color: aquamarine;
+    min-height: 100vh;
+    border:10px solid #1D1E4C;
+}
+.content{
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.image1{
+    height: 200px;
+    width: 200px;
+    border-radius: 25px;
+    margin-top: 70px;
+    
+}
